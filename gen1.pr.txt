@@ -1,0 +1,7 @@
+/users/abrick/pr/231/2562/k7.py  use of lazy evaluation generator is on point. Of course abspath.startswith ! could of used that in my code could use more comments to explain code
+/users/abrick/pr/231/2562/k3.py generator looks good looks like you went above and beyond to print the absolute path instead of catching the stop itteration error you can catch it in the genrator using a while statement
+/users/abrick/pr/231/2562/c7.py concise code looks good, the possible implementation would reach a stopIteration error, it would be better suited for infinite series.
+/users/abrick/pr/231/2562/34.py looks good, nice use of os.path, i do think code could be more concise and could use more comments
+/users/abrick/pr/231/2562/tu.py looks good could use more comments.
+/users/abrick/pr/231/2562/d6.py code needs more comments, interesting approch, I got an error upon running
+/users/abrick/pr/231/2562/s2.py  did not print results one at a time. Hit stop iteration.
